@@ -1,0 +1,10 @@
+id: YDP201H001-V3
+category: displays
+size: "2.01"
+panel: tft
+resolution: 240x296
+interface: [mcu]
+driver: ST7789P3
+touch: null
+outline: 34.04 x 43.32 x 1.56 mm
+active_area: 32.04 x 39.516 mm
