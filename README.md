@@ -37,6 +37,7 @@
 
 | 版本 | 宣传图 | 驱动 IC | 触摸驱动 | 接口 | 完整资料 |
 | ---- | ------ | ------- | -------- | ---- | -------- |
+| YDP201BT005-V1 | — | ST7789P3 | CST810 | MCU | [完整资料](./versions/YDP201BT005-V1/) |
 | YDP201H001-V3 | <img alt="YDP201H001-V3" src="./versions/YDP201H001-V3/images/recommend-optimized.png" width="120" /> | ST7789P3 | — | MCU | [完整资料](./versions/YDP201H001-V3/) |
 
 ---

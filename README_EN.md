@@ -37,6 +37,7 @@ Repo id: `display-tft-2.01inch-240x296`
 
 | Version | Image | Driver IC | Touch IC | Interface | Full docs |
 | ------- | ----- | --------- | -------- | --------- | --------- |
+| YDP201BT005-V1 | — | ST7789P3 | CST810 | MCU | [Full docs](./versions/YDP201BT005-V1/) |
 | YDP201H001-V3 | <img alt="YDP201H001-V3" src="./versions/YDP201H001-V3/images/recommend-optimized.png" width="120" /> | ST7789P3 | — | MCU | [Full docs](./versions/YDP201H001-V3/) |
 
 ---
